@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://inagiaden.github.io/about/index.html</loc>
+    <loc>https://www.depth.su/2023/08/23/git-blog/</loc>
+    
+    <lastmod>2023-08-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.depth.su/2023/07/25/kaliandroid/</loc>
+    
+    <lastmod>2023-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.depth.su/about/index.html</loc>
     
     <lastmod>2023-07-25</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/25/pixelbugs/</loc>
+    <loc>https://www.depth.su/2023/07/25/pixelbugs/</loc>
     
     <lastmod>2023-07-25</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/25/vscgo/</loc>
+    <loc>https://www.depth.su/2023/07/25/vscgo/</loc>
     
     <lastmod>2023-07-25</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/25/android12/</loc>
+    <loc>https://www.depth.su/2023/07/25/android12/</loc>
     
     <lastmod>2023-07-25</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/25/kaliandroid/</loc>
+    <loc>https://www.depth.su/2023/07/25/pojav/</loc>
     
     <lastmod>2023-07-25</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/25/pojav/</loc>
+    <loc>https://www.depth.su/2023/07/25/2/</loc>
     
     <lastmod>2023-07-25</lastmod>
     
@@ -56,16 +74,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/25/2/</loc>
-    
-    <lastmod>2023-07-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inagiaden.github.io/2023/07/24/tasklist/</loc>
+    <loc>https://www.depth.su/2023/07/24/tasklist/</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/comment/index.html</loc>
+    <loc>https://www.depth.su/comment/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/links/index.html</loc>
+    <loc>https://www.depth.su/links/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/shuoshuo/index.html</loc>
+    <loc>https://www.depth.su/shuoshuo/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/movies/index.html</loc>
+    <loc>https://www.depth.su/movies/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/music/index.html</loc>
+    <loc>https://www.depth.su/music/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/photos/index.html</loc>
+    <loc>https://www.depth.su/photos/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/archives/index.html</loc>
+    <loc>https://www.depth.su/archives/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -137,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/tags/index.html</loc>
+    <loc>https://www.depth.su/tags/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -146,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/categories/index.html</loc>
+    <loc>https://www.depth.su/categories/index.html</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/2023/07/24/hello-world/</loc>
+    <loc>https://www.depth.su/2023/07/24/hello-world/</loc>
     
     <lastmod>2023-07-24</lastmod>
     
@@ -165,51 +174,58 @@
   
 
   <url>
-    <loc>https://inagiaden.github.io/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://inagiaden.github.io/tags/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/tags/Github/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/tags/Github/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/tags/GitHub/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/tags/Android/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/tags/Android/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/tags/Minecraft/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/tags/Kali-Linux/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/tags/windows/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/tags/Minecraft/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/tags/Visual-Studio-Code/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/tags/windows/</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.depth.su/tags/Visual-Studio-Code/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -217,50 +233,43 @@
 
   
   <url>
-    <loc>https://inagiaden.github.io/categories/Kali-Linux/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/categories/ZeroTermux/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/categories/%E6%89%8B%E6%9C%BA%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/categories/%E6%89%8B%E6%9C%BA%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/categories/Kali-Linux/Termux/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://inagiaden.github.io/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://inagiaden.github.io/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2023-07-25</lastmod>
+    <loc>https://www.depth.su/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2023-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
